@@ -1,6 +1,6 @@
 # Map Festival
 
-As part of the [Science Festival 2019](https://www.science-festival.lu/) (7th-10th November), the [Institute of Geography and Spatial Planning](bit.ly/2Jz3gAe) of the University of Luxembourg is organising a mini Map Festival!
+As part of the [Science Festival 2019](https://www.science-festival.lu/) (7th-10th November), the [Institute of Geography and Spatial Planning](http://bit.ly/2Jz3gAe) of the University of Luxembourg is organising a mini Map Festival!
 
 The event is targeting kids for the two first days and the general public during the weekend.
 
